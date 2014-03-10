@@ -15,7 +15,7 @@
     "arduino",
     "neopixel"
   ],
-  "author": "Mike Smith <neodd70@gmail.com>",
+  "author": "Daniel Grove <danny@drgrovellc.com>, Mike Smith <neodd70@gmail.com>",
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/HakrLabs/NeoControl-Server/issues"
